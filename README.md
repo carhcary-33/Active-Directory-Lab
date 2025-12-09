@@ -97,10 +97,10 @@ Additional groups created:
 ## GPO Deployment Commands
 
 To force GPO updates:
-
+Gpupdate /force
 
 To validate domain health:
-
+dcdiag /v
 
 ---
 
